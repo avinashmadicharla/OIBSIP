@@ -369,4 +369,4 @@ Run the notebook cells from beginning to end.
 
 Data Analytics Intern
 
-Oasis Infobyte Internship Program
+Oasis Infobyte Internship
